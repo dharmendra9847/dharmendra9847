@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **MERN FullStack Development**
 - 👯 I’m looking to collaborate on [Ecommerce website](https://ecommerce-website-with-html-css.netlify.app)
 -  👨‍💻 All of my projects are available at [https://app.netlify.com/teams/dharmendra9847-pez2xmq/sites](https://app.netlify.com/teams/dharmendra9847-pez2xmq/sites)
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap5, JavaScript**
 -  📫 How to reach me **dharmendra9847@gmail.com**
 
 
@@ -43,7 +43,7 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
 
 <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
-      <h4 align="left">Programming Languages:</h4>
+      <h4 align="left">👩‍💻 Programming Languages</h4>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
@@ -67,6 +67,13 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
     />
   </a>
 
+  <a href="https://www.JSON.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+      alt="JavaScript"
+      style="max-width: 100%"
+    />
+  </a>
+
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
@@ -75,14 +82,29 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
     />
   </a>
 
+  <a href="https://www.TypeScript.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="java"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+      alt="php"
+      width="70"
+    />
+  </a>
+
 </p>
 
    <p align="left">
-      <h4 align="left">Libraries and Frameworks:</h4>   
+      <h4 align="left">🚀 Frameworks & Library</h4>   
   <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-      alt="bootstrap"
+      alt="bootstrap5"
       style="max-width: 100%"
     />
   </a>
@@ -94,23 +116,55 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
       style="max-width: 100%"
     />
   </a>
-
    </p>
 
  <p align="left">
-      <h4 align="left">Databases:</h4>
+      <h4 align="left">⚡ Databases</h4>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667"
+      src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"
-      width="70"
+      style="max-width: 100%"
     />
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+
+   <a href="https://www.MongoDB.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/8cba877c9729b9af2c1e0952ce007c05a4be5bc723d56e50cf2f9f9c384a9d8e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667"
-      alt="php"
-      width="70"
+      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"
+      style="max-width: 100%"
+    />
+  </a>
+</p>
+
+<p align="left">
+      <h4 align="left">👩‍💻 IDE</h4>
+  <a href="https://www.VSCode.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+      alt="VSCode"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.Eclipse.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
+      alt="Eclipse"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.Atom.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"
+      alt="Atom"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.sublime_text.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"
+      alt="sublime_text"
+      style="max-width: 100%"
     />
   </a>
 </p>
@@ -139,7 +193,7 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱 Contact With Me</h3>
 <p align="left">
       <a href="https://github.com/dharmendra9847" target="blank"
     ><img
