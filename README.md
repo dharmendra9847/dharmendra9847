@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I'm Dharmendra Kumar</h1>
+<h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
