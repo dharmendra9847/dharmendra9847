@@ -44,15 +44,6 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
 <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
       <h4 align="left">👩‍💻 Programming Languages</h4>
-
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://camo.githubusercontent.com/29f4bdfbd7dd2ed5be81e4a8c67e6333760845c51902e36f18682e95442dbfcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
-      alt="java"
-      style="max-width: 100%"
-    />
-  </a>
-
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
@@ -83,7 +74,13 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
     />
   </a>
 
-  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
+      alt="java"
+      style="max-width: 100%"
+    />
+  </a>
 
   <a href="https://www.TypeScript.com" target="_blank" rel="noreferrer">
     <img
