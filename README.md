@@ -44,15 +44,36 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
 <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
       <h4 align="left">👩‍💻 Programming Languages</h4>
-      
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/29f4bdfbd7dd2ed5be81e4a8c67e6333760845c51902e36f18682e95442dbfcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
-      alt="java"
+
+<a href="https://www.c.com" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/893447b306f0feeb509c09ed59a40c743eb7fa7637769348843a8a05419f42f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"
+      alt="C"
       style="max-width: 100%"
     />
   </a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0381efb204fa8c8ddef28c775ea899d7c099ecb52c7417bbb17e3ac8dabbf6bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0381efb204fa8c8ddef28c775ea899d7c099ecb52c7417bbb17e3ac8dabbf6bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a href="https://www.c++.com" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/b6d3405bf811a5f89cb437e00b88d1beb855fea73175eab303685f95bc0c3f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465"
+      alt="C++"
+      style="max-width: 100%"
+    />
+  </a>
+
+      
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/29f4bdfbd7dd2ed5be81e4a8c67e6333760845c51902e36f18682e95442dbfcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
+      alt="Java"
+      style="max-width: 100%"
+    />
+  </a>
+
+  <a href="https://www.python.com" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/0381efb204fa8c8ddef28c775ea899d7c099ecb52c7417bbb17e3ac8dabbf6bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"
+      alt="Python"
+      style="max-width: 100%"
+    />
+  </a>
   
   
   
