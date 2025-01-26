@@ -154,15 +154,6 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
       style="max-width: 100%"
     />
   </a>
-   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://camo.githubusercontent.com/ef78c9f37a31cfb4865a0e61aba9bcf02d3e1febffe632f1ce34c43b80817726/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667"
-      alt="mysql"
-      style="max-width: 30%"
-    />
-  </a>
-
   <a href="https://www.postgres.com/" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/d941497e4701670e29926142f1de4e7a380dbca4f1e555de2e358309007ea817/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d3042393642323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
