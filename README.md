@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   align="right"
   alt="coding"
   width="500"
-  src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png"
+  src="https://cdn3d.iconscout.com/3d/premium/thumb/coder-is-doing-software-management-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--online-work-conversation-remote-from-home-chat-programmer-character-pack-professionals-illustrations-8949199.png?f=webp"
 />
 
 <h3 align="left">💻 Tech Stack</h3>
