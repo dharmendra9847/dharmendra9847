@@ -159,7 +159,7 @@ src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad565
     <img
       src="https://camo.githubusercontent.com/ef78c9f37a31cfb4865a0e61aba9bcf02d3e1febffe632f1ce34c43b80817726/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667"
       alt="mysql"
-      style="max-width: 100%"
+      style="max-width: 30%"
     />
   </a>
 
