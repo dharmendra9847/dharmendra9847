@@ -36,14 +36,15 @@ Currently focused on improving system design skills and building production-read
       src="https://img.shields.io/twitter/follow/dharmendra9847?logo=twitter&style=for-the-badge"
       alt="dharmendra9847"
   /></a>
-  <img
+</p>
+
+<img
   align="right"
+  margin="10"
   alt="coding"
   width="300"
   src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 />
-</p>
-
 
 ## 👨‍💻 About Me
 
