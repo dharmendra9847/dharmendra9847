@@ -38,168 +38,35 @@ Here are some ideas to get you started:
   align="right"
   alt="coding"
   width="500"
-  src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 />
 
 <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
       <h4 align="left">👩‍💻 Programming Languages</h4>
-      
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"
-      alt="Java"
-      style="max-width: 5%"
-    />
-  </a>
-
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"
-      alt="MySQL"
-      style="max-width: 5%"
-    />
-  </a>
+      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+      ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+      ![JavaScript(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"
-      alt="HTML5"
-      style="max-width: 5%"
-    />
-  </a>
-
-  <a href="https://www.json.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"
-      alt="JavaScript"
-      style="max-width: 25%"
-    />
-  </a>
-
-</p>
+      
+  
 
    <p align="left">
       <h4 align="left">🚀 Frameworks & Library</h4>  
-     <a href="https://www.spring.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png"
-          alt="Spring"
-          style="max-width: 100%"
-        />
-    </a>
-     <a href="https://www.springboot.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"
-          alt="Spring Boot"
-          style="max-width: 100%"
-        />
-    </a>
-     <a href="https://www.hibernate.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png"
-          alt="Hibernate"
-          style="max-width: 100%"
-        />
-    </a>
-     <a href="https://www.tomcat.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tomcat.png"
-          alt="Tomcat"
-          style="max-width: 100%"
-        />
-    </a>
-     <a href="https://www.lombok.com" target="_blank" rel="noreferrer">
-        <img
-          src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png"
-          alt="Lombok"
-          style="max-width: 100%"
-        />
-    </a>
-      <a href="https://www.react.com" target="_blank" rel="noreferrer">
-        <img
-          src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"
-          alt="React"
-          style="max-width: 100%"
-        />
-    </a>
      
-   <a href="https://www.bootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"
-      alt="Bootstrap"
-      style="max-width: 100%"
-    />
-  </a>
    </p>
 
  <p align="left">
       <h4 align="left">⚡ Databases</h4>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"
-            alt="Oracle"
-            style="max-width: 100%"
-          />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"
-          alt="MySQL"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.postgres.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"
-          alt="PostgreSQL"
-          style="max-width: 100%"
-        />
-      </a>
+       
 </p>
 
 
 <p align="left">
-    <h4 align="left">👩‍💻 IDE</h4>
-   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"
-            alt="Postman"
-            style="max-width: 100%"
-          />
-      </a>
-        <a href="https://www.maven.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png"
-            alt="Maven"
-            style="max-width: 100%"
-          />
-      </a>
-      <a href="https://www.intellij.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"
-            alt="IntelliJ"
-            style="max-width: 100%"
-          />
-      </a>
-      <a href="https://www.eclipse.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"
-          alt="Eclipse"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.junit.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png"
-            alt="JUnit"
-            style="max-width: 100%"
-          />
-      </a>
-      <a href="https://www.VSCode.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
-          alt="VSCode"
-          style="max-width: 100%"
-        />
-      </a>
+    <h4 align="left">👩‍💻 IDE </h4>
+   
 </p>
 
 <p>
