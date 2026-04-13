@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<!-- <h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
+<h6 align="center">A passionate Java Backend developer from India</h6> -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
+  </a>
+</h1>
+
+# 💫 About Me:
+  I am a passionate Java Backend Developer who enjoys building robust and scalable backend systems. I specialize in developing secure REST APIs and microservices using Spring Boot and modern backend technologies.<br><br>I have a strong interest in system design, backend architecture, and real-world application development. I continuously improve my skills by working on projects, learning new technologies, and following industry best practices.<br><br>I aim to contribute to innovative projects and grow as a professional software engineer in a challenging environment.
 
 <p align="left">
   <a href="https://twitter.com/dharmendra9847" target="blank"
@@ -27,10 +35,10 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on [Travel website](https://dharmendra9847.github.io/beach.github.io/)
-- 🌱 I’m currently learning **MERN FullStack Development**
+- 🌱 I’m currently learning **JAVA FullStack Developer**
 - 👯 I’m looking to collaborate on [Ecommerce website]()
 -  👨‍💻 All of my projects are available at [https://app.netlify.com/teams/dharmendra9847-pez2xmq/sites]()
-- 💬 Ask me about **JAVA J2EE, SQL, HTML5, CSS3, Bootstrap5, JavaScript**
+- 💬 Ask me about **JAVA, J2EE, SQL, HTML5, CSS3, Bootstrap5, JavaScript**
 -  📫 How to reach me **dharmendra9847@gmail.com**
 
 
@@ -41,7 +49,7 @@ Here are some ideas to get you started:
   src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 />
 
-<h3 align="left">💻 Tech Stack</h3>
+<!-- <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
       <h4 align="left">👩‍💻 Programming Languages</h4>
      
@@ -125,5 +133,28 @@ Here are some ideas to get you started:
       src="https://camo.githubusercontent.com/a19456839968069bd49c80513a0558441e5d333b568d24c3e0312cbc3028a919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"
       alt="dharmendra9847"
       style="max-width: 100%"
-  /></a>
+  /></a> -->
 </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dharmendraj143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmendra9847) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmendra-kumar-546150171) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dharmendra9847) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmendra9847@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=dharmendra9847&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dharmendra9847&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dharmendra9847&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=dharmendra9847&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
