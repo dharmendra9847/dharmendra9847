@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
 <h6 align="center">A passionate Java Backend developer from India</h6> -->
-<h1>
+<!-- <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
   </a>
-</h1>
+</h1> -->
 
 <h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
-  I am a passionate Java Backend Developer who enjoys building robust and scalable backend systems. I specialize in developing secure REST APIs and microservices using Spring Boot and modern backend technologies.<br><br>I have a strong interest in system design, backend architecture, and real-world application development. I continuously improve my skills by working on projects, learning new technologies, and following industry best practices.<br><br>I aim to contribute to innovative projects and grow as a professional software engineer in a challenging environment.
+  I am a Java Backend Developer specializing in building scalable and secure microservices using Spring Boot and Spring Cloud.
+
+I have hands-on experience in designing REST APIs, working with MySQL databases, and implementing real-world backend architectures.
+
+Currently focused on improving system design skills and building production-ready applications using Docker and cloud technologies.
 
 <p align="left">
   <a href="https://twitter.com/dharmendra9847" target="blank"
@@ -41,7 +45,7 @@ Here are some ideas to get you started:
 />
 
 - 🔭 I’m currently working on [Spring AI Project]()
-- 🌱 I’m currently learning **JAVA FullStack Developer**
+- 🌱 Currently learning: **System Design, Docker, and Microservices Deployment**
 - 👯 I’m looking to collaborate on [Spring AI Project]()
 - 💬 Ask me about **JAVA, J2EE, SQL, HTML5, CSS3, Bootstrap5, JavaScript**
 -  📫 How to reach me **dharmendra9847@gmail.com**
@@ -134,6 +138,23 @@ Here are some ideas to get you started:
       style="max-width: 100%"
   /></a> -->
 </p>
+## 💼 Experience
+
+🔹 Java Backend Developer (Self Projects)  
+- Designed and developed microservices architecture using Spring Boot  
+- Implemented API Gateway, Eureka Server, and Config Server  
+- Built REST APIs with MySQL integration  
+- Containerized services using Docker
+
+## 🚀 Featured Project
+
+### Microservices Architecture Project
+- API Gateway, Eureka Server, Config Server  
+- User, Account, Plot Services  
+- Dockerized setup  
+- REST API communication  
+
+👉 https://github.com/your-username/microservices-project
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -145,5 +166,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=dharmendra9847&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📫 Let's Connect
+
+📧 Email: dharmendra9847@gmail.com  
+💼 LinkedIn: [dharmendra-kumar-546150171](https://www.linkedin.com/in/dharmendra-kumar-546150171/) 
 
 
