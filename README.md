@@ -44,12 +44,15 @@ Currently focused on improving system design skills and building production-read
   src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 />
 
-- 🔭 I’m currently working on [Spring AI Project]()
-- 🌱 Currently learning: **System Design, Docker, and Microservices Deployment**
-- 👯 I’m looking to collaborate on [Spring AI Project]()
-- 💬 Ask me about **JAVA, J2EE, SQL, HTML5, CSS3, Bootstrap5, JavaScript**
--  📫 How to reach me **dharmendra9847@gmail.com**
--  ⚡ Fun fact: I sometimes used to open Github to see Octocat.
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Spring Boot & AI-based Microservices Projects**
+- 🌱 Learning **System Design, Docker, Kubernetes & Cloud Deployment**
+- 👯 Open to collaborate on **Java Backend & Microservices Architecture**
+- 💬 Expertise in **Java, Spring Boot, J2EE, SQL, REST APIs**
+- 🌐 Frontend knowledge: **HTML5, CSS3, Bootstrap, JavaScript**
+- 📫 Contact: **dharmendra9847@gmail.com**
+- ⚡ Fun fact: Exploring GitHub and learning something new every day 🚀
 
 
 <!-- <h3 align="left">💻 Tech Stack</h3>
