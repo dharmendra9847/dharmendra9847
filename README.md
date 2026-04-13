@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Dharmendraj143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dharmendra9847/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharmendra-kumar-546150171/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Dharmendra9847) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=dharmendra9847&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharmendra9847&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -158,4 +158,3 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=dharmendra9847&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
