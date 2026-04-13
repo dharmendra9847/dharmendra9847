@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-# 💫 About Me:
+<h1 align="center">👋, I'm Dharmendra Kumar 👨‍💻</h1>
   I am a passionate Java Backend Developer who enjoys building robust and scalable backend systems. I specialize in developing secure REST APIs and microservices using Spring Boot and modern backend technologies.<br><br>I have a strong interest in system design, backend architecture, and real-world application development. I continuously improve my skills by working on projects, learning new technologies, and following industry best practices.<br><br>I aim to contribute to innovative projects and grow as a professional software engineer in a challenging environment.
 
 <p align="left">
