@@ -48,14 +48,14 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"
       alt="Java"
-      style="max-width: 25%"
+      style="max-width: 5%"
     />
   </a>
 
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"
       alt="MySQL"
-      style="max-width: 25%"
+      style="max-width: 5%"
     />
   </a>
   
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"
       alt="HTML5"
-      style="max-width: 25%"
+      style="max-width: 5%"
     />
   </a>
 
