@@ -33,6 +33,12 @@ Here are some ideas to get you started:
       alt="dharmendra9847"
   /></a>
 </p>
+<img
+  align="right"
+  alt="coding"
+  width="300"
+  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
+/>
 
 - 🔭 I’m currently working on [Travel website](https://dharmendra9847.github.io/beach.github.io/)
 - 🌱 I’m currently learning **JAVA FullStack Developer**
@@ -41,13 +47,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JAVA, J2EE, SQL, HTML5, CSS3, Bootstrap5, JavaScript**
 -  📫 How to reach me **dharmendra9847@gmail.com**
 
-
-<img
-  align="right"
-  alt="coding"
-  width="300"
-  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
-/>
 
 <!-- <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
